@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T09:54:03.583Z" agent="5.0 (Windows)" etag="Sbml-kbzmynrZaERF4yQ" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T10:14:25.826Z" agent="5.0 (Windows)" etag="nemeu7Ti76jkAf08u7Ro" version="20.3.0" type="github">
   <diagram id="mFV4b9mCCrI5YmX5gzNI" name="Page-1">
     <mxGraphModel dx="2249" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -516,6 +516,33 @@
         </mxCell>
         <mxCell id="97USH-_PY3aVAxg5_6Zu-34" value="- Résultat de collecte ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="583" y="1390" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="97USH-_PY3aVAxg5_6Zu-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Massive Attack&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="97USH-_PY3aVAxg5_6Zu-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="128.75" y="1584.5" as="sourcePoint" />
+            <mxPoint x="1868.75" y="1584.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="97USH-_PY3aVAxg5_6Zu-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;V1.0&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="561" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97USH-_PY3aVAxg5_6Zu-39" value="&lt;br&gt;- Performance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1620" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="97USH-_PY3aVAxg5_6Zu-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;V1.1&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97USH-_PY3aVAxg5_6Zu-42" value="&lt;br&gt;- Modularité questionnaire" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="955" y="1620" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="97USH-_PY3aVAxg5_6Zu-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;V0.5&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97USH-_PY3aVAxg5_6Zu-45" value="- Adaptation fàf" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1630" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
