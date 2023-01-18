@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T16:00:00.666Z" agent="5.0 (Windows)" etag="nlspeQvvtdHFXm7bkcBW" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T16:10:33.998Z" agent="5.0 (Windows)" etag="6ZKIn_Px52uHEXPTTdY6" version="20.8.5" type="github">
   <diagram id="mFV4b9mCCrI5YmX5gzNI" name="Page-1">
     <mxGraphModel dx="3217" dy="2426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -280,7 +280,7 @@
         <mxCell id="ddA6PycPh_wfGD-rprwo-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="669.3799999999999" y="-550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ddA6PycPh_wfGD-rprwo-8" value="&lt;b&gt;Vx.y+4&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="ddA6PycPh_wfGD-rprwo-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+1&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1322.67" y="-550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ddA6PycPh_wfGD-rprwo-9" value="&lt;div&gt;- boucle de boucle ?&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
