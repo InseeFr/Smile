@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T10:50:37.435Z" agent="5.0 (Windows)" etag="bAq3fyea8wJTsxKXgCgn" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T15:45:48.166Z" agent="5.0 (Windows)" etag="QNo199Sa3wfxebsdg_jQ" version="20.8.5" type="github">
   <diagram id="mFV4b9mCCrI5YmX5gzNI" name="Page-1">
-    <mxGraphModel dx="2876" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3217" dy="2426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,29 +280,26 @@
         <mxCell id="FTLLSDSXX8i168MmgbQK-46" value="- interséquence simple sans Crabe vers questionnaire autoadministré ou non&lt;br&gt;- mise en demeure/constat de non réponse ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1356.62" y="205" width="191.38" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ddA6PycPh_wfGD-rprwo-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="180.67" y="-550" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ddA6PycPh_wfGD-rprwo-3" value="- refonte technique Lunatic (v2)&lt;br&gt;- support des questionnaires face à face&lt;br&gt;- capture paradonnées enquêteurs ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="200.67" y="-510" width="310" height="30" as="geometry" />
+        <mxCell id="ddA6PycPh_wfGD-rprwo-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="349.38" y="-550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ddA6PycPh_wfGD-rprwo-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+1&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="470.67" y="-550" width="80" height="80" as="geometry" />
+          <mxGeometry x="575.11" y="-550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ddA6PycPh_wfGD-rprwo-5" value="- composition de questionnaires (TCM)&lt;br&gt;- liens 2 à 2&lt;br&gt;- intégration Lunatic V2 dans les orchestrateurs (StromaeV2, &lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;Queen&lt;/span&gt;)&lt;br&gt;- Kish&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;- premiers liens (liste de codes) avec RMéS&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="529.17" y="-510" width="310" height="30" as="geometry" />
+          <mxGeometry x="690.92" y="-490" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ddA6PycPh_wfGD-rprwo-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+2&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910.67" y="-550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ddA6PycPh_wfGD-rprwo-7" value="- composition de questionnaires (y compris EMB ?)&lt;br&gt;- consolidation globale (tests de non régression)&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 153, 153);&quot;&gt;- composant type carnet&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(255, 206, 159);&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="840.67" y="-480" width="250" height="30" as="geometry" />
+          <mxGeometry x="1002.42" y="-450" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ddA6PycPh_wfGD-rprwo-8" value="&lt;b&gt;Vx.y+4&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1322.67" y="-550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ddA6PycPh_wfGD-rprwo-9" value="- boucle de boucle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1331.67" y="-510" width="150" height="30" as="geometry" />
+          <mxGeometry x="1493.42" y="-490" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cksNnemaycyc-sAIgtyD-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+3&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1090.67" y="-550" width="80" height="80" as="geometry" />
@@ -698,7 +695,7 @@
           <mxGeometry width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xNABrJWw2-1LNLXo3Lx6-16" value="&lt;div&gt;Version du 18/01/23&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Garamond;fontSize=20;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1.6200000000000028" y="-1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-9.819999999999997" y="-1169" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xNABrJWw2-1LNLXo3Lx6-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -850,30 +847,69 @@
         <mxCell id="6ZO7rM-hSKWE6RCSlXtH-19" value="Parliament" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2.4300000000000033" y="2210" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WO8lcPv12mmUFYZ2QAV3-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.0.0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="WO8lcPv12mmUFYZ2QAV3-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1.0.0&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffe6cc;strokeColor=#d79b00;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="501.38" y="-800" width="103" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WO8lcPv12mmUFYZ2QAV3-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;V0&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WO8lcPv12mmUFYZ2QAV3-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;V0&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="761.17" y="-100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WO8lcPv12mmUFYZ2QAV3-34" value="&lt;div&gt;intégration Lunatic V2&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="WO8lcPv12mmUFYZ2QAV3-34" value="&lt;div&gt;intégration Lunatic V2&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550.6700000000001" y="-150" width="158.62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WO8lcPv12mmUFYZ2QAV3-35" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+1&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="WO8lcPv12mmUFYZ2QAV3-35" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+1&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="582.88" y="-220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WO8lcPv12mmUFYZ2QAV3-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+1&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="WO8lcPv12mmUFYZ2QAV3-36" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;V2.2.13&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="453.49" y="-360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WO8lcPv12mmUFYZ2QAV3-37" value="- intégration Lunatic V2&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="WO8lcPv12mmUFYZ2QAV3-37" value="- intégration Lunatic V2&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="429.38" y="-290" width="158.62" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WO8lcPv12mmUFYZ2QAV3-58" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+1&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="WO8lcPv12mmUFYZ2QAV3-58" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+1&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="741.38" y="-220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WO8lcPv12mmUFYZ2QAV3-59" value="&lt;div&gt;capture paradonnées&lt;/div&gt;&lt;div&gt;collecte enquêteurs&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="WO8lcPv12mmUFYZ2QAV3-59" value="&lt;div&gt;capture paradonnées&lt;/div&gt;&lt;div&gt;collecte enquêteurs&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="707" y="-150" width="158.62" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="t6fUASBdN1nPHJaM060b-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;2.4.1 et 2.3.12&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-710" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t6fUASBdN1nPHJaM060b-3" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;- support questionnaires face à face&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;- visu StromaeV2 Lunatic V2&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340.86" y="-630" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t6fUASBdN1nPHJaM060b-4" value="&lt;div&gt;refonte technique&lt;/div&gt;&lt;div&gt;&amp;nbsp;Lunatic V2&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="316.99" y="-470" width="143.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t6fUASBdN1nPHJaM060b-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+1&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="604.38" y="-710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t6fUASBdN1nPHJaM060b-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+2&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="915.75" y="-710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t6fUASBdN1nPHJaM060b-7" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;- composition de questionnaires (TCM)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- liens 2 à 2&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="591.1700000000001" y="-630" width="260" height="50" as="geometry" />
+        </mxCell>
+        <UserObject label="composition des questionnaires (y. c. EMB?)" id="t6fUASBdN1nPHJaM060b-8">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;" vertex="1" parent="1">
+            <mxGeometry x="866" y="-635" width="214" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="t6fUASBdN1nPHJaM060b-9" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+3&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1095.75" y="-715" width="80" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;- refonte UI&lt;/div&gt;&lt;div&gt;- rond-point&lt;br&gt;&lt;/div&gt;" id="t6fUASBdN1nPHJaM060b-10">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;" vertex="1" parent="1">
+            <mxGeometry x="1090.25" y="-640" width="109.75" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="t6fUASBdN1nPHJaM060b-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Vx.y+4&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1323.11" y="-715" width="80" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="boucle de boucle" id="t6fUASBdN1nPHJaM060b-12">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=default;" vertex="1" parent="1">
+            <mxGeometry x="1300.38" y="-635" width="130" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
