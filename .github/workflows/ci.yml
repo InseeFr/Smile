@@ -1,12 +1,23 @@
-steps:
-    - uses: actions/checkout@v2
-    - name: Convert XMl draw.io file to png image
-      uses: Burnett01/actions-drawio@1.2
-      with:
-        src: story-map.drawio
-        dest: story-map.png
-    - name: Upload image as artifact
-      uses: actions/upload-artifact@v1
-      with:
-        name: png
-        path: story-map.png
+name: Generate img
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build_test:
+    runs-on: ubuntu-latest
+    steps:
+        - uses: actions/checkout@v2
+        - name: Convert XMl draw.io file to png image
+          uses: Burnett01/actions-drawio@1.2
+          with:
+            src: story-map.drawio
+            dest: story-map.png
+        - name: Upload image as artifact
+          uses: actions/upload-artifact@v1
+          with:
+            name: png
+            path: story-map.png
